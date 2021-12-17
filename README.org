@@ -1,0 +1,5 @@
+#+TITLE: Samuel's Picom Config Backup
+
+* Picom Config
+
+This is my picom config. It contains my personal picom configuration for my window manager (xmonad, qtile, i3-gaps). You can use this for learning media or maybe apply this with your compositor (i use [[https://github.com/jonaburg/picom][Jonaburg's picom fork]])
